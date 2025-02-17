@@ -5,6 +5,7 @@ import matplotlib as mtl
 import seaborn as sb
 import plotly as sns
 import datetime as dt
+import plotly.express as px
 #configuración inicial de la aplicación
 st.set_page_config(
   page_title="Dashboard Interactivo",
